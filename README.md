@@ -10,3 +10,7 @@ Manual TDD: notificaciones push (Firebase Cloud Messaging) en Flutter con un ser
 ### Ronda 1. Firebase configurado
 
 ![Firebase configurado](capturas/r1_01_firebase_configurado.png)
+
+### Ronda 1. Firebase configurado
+
+![Firebase configurado](capturas/r1_01_firebase_configurado.png)
