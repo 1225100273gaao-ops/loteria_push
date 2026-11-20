@@ -46,3 +46,15 @@ Manual TDD: notificaciones push (Firebase Cloud Messaging) en Flutter con un ser
 ### Ronda 4. Sala: pruebas en verde
 
 ![Sala en verde](capturas/r4_02_sala_test_verde.png)
+
+### Ronda 5. Servidor HTTP: prueba en rojo
+
+![Servidor en rojo](capturas/r5_01_servidor_test_rojo.png)
+
+### Ronda 5. Servidor HTTP: prueba en rojo
+
+![Servidor en rojo](capturas/r5_01_servidor_test_rojo.png)
+
+### Ronda 5. Servidor HTTP: 61 pruebas en verde
+
+![Servidor en verde](capturas/r5_02_servidor_test_verde.png)
