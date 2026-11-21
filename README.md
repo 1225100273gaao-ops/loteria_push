@@ -86,3 +86,39 @@ Manual TDD: notificaciones push (Firebase Cloud Messaging) en Flutter con un ser
 ### Ronda 9. Pantallas: pruebas en verde
 
 ![Pantallas en verde](capturas/r9_02_pantalla_test_verde.png)
+
+### Ronda 10. Validación en seco con Firebase (enviado: true)
+
+![Dry run](capturas/r10_01_fcm_dryrun_enviado.png)
+
+### Ronda 10. Carta recibida con la app al frente
+
+![Carta en primer plano](capturas/r10_02_carta_en_primer_plano.png)
+
+### Ronda 10. Notificación con la app en segundo plano
+
+![Notificación en segundo plano](capturas/r10_03_notificacion_segundo_plano.png)
+
+### Ronda 10. Tres cartas con la app cerrada: una sola notificación (colapso)
+
+![Colapso](capturas/r10_04_colapso_una_notificacion.png)
+
+### Ronda 10. Al abrir, la app se pone al día con el servidor
+
+![Sincronización](capturas/r10_05_sincronizacion_tres_cartas.png)
+
+### Ronda 10. Modo avión: las cartas caducaron por TTL, no llegó ninguna notificación
+
+![TTL](capturas/r10_06_ttl_ninguna_notificacion.png)
+
+### Ronda 10. Al abrir la app, las cinco cartas están (las trajo el servidor)
+
+![Cartas recuperadas](capturas/r10_07_cartas_recuperadas_del_servidor.png)
+
+### Ronda 10. Carta recibida con la app al frente
+
+![Carta en primer plano](capturas/r10_02_carta_en_primer_plano.png)
+
+### Ronda 10. Carta recibida con la app al frente
+
+![Carta en primer plano](capturas/r10_02_carta_en_primer_plano.png)
