@@ -66,3 +66,11 @@ Manual TDD: notificaciones push (Firebase Cloud Messaging) en Flutter con un ser
 ### Ronda 6. Eventos, patrones y partida: pruebas en verde
 
 ![Dominio en verde](capturas/r6_02_dominio_test_verde.png)
+
+### Ronda 7. Controlador: prueba en rojo
+
+![Controlador en rojo](capturas/r7_01_controlador_test_rojo.png)
+
+### Ronda 7. Controlador: pruebas en verde
+
+![Controlador en verde](capturas/r7_02_controlador_test_verde.png)
