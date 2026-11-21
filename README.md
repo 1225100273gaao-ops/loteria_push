@@ -74,3 +74,7 @@ Manual TDD: notificaciones push (Firebase Cloud Messaging) en Flutter con un ser
 ### Ronda 7. Controlador: pruebas en verde
 
 ![Controlador en verde](capturas/r7_02_controlador_test_verde.png)
+
+### Ronda 8. Adaptador de Firebase, API HTTP y almacén
+
+![Capa infra](capturas/r8_01_infra_compila.png)
